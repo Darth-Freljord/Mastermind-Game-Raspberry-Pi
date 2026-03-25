@@ -1,8 +1,5 @@
 # 🧠 MasterMind — Raspberry Pi Systems Programming
 
-> F28HS: Hardware-Software Interface | Heriot-Watt University Dubai
-> Pair Project — Syed Suhail Ahmed & Ratish Palanisamy
-
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![ARM Assembly](https://img.shields.io/badge/ARM_Assembly-0091BD?style=for-the-badge&logo=arm&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
@@ -38,6 +35,9 @@ The Raspberry Pi acts as the **codekeeper**, generating a secret 3-digit sequenc
 ---
 
 ## ⚙️ Hardware
+
+| Our Hardware Structure |
+(Hardware.png)
 
 ### Components
 
