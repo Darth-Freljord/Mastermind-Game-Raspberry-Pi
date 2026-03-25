@@ -36,8 +36,8 @@ The Raspberry Pi acts as the **codekeeper**, generating a secret 3-digit sequenc
 
 ## ⚙️ Hardware
 
-| Our Hardware Structure |
-(Hardware.png)
+| [Our Hardware Structure]!(Hardware.png)|
+
 
 ### Components
 
